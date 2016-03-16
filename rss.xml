@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ShawnMcCool]]></title>
+        <description><![CDATA[ShawnMcCool]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 17:21:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Domain-Driven Design]]></title>
+            <description><![CDATA[<h1>Domain-Driven Design</h1>]]></description>
+            <link>undefineddomain-driven-design/index.html</link>
+            <guid isPermaLink="false">1ffc2aae-e181-4d58-b82c-74eb853dd2a0</guid>
+            <pubDate>Wed, 16 Mar 2016 17:21:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
