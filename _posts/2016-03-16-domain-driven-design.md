@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T17:21:02.156Z'
-dateModified: '2016-03-16T17:20:56.414Z'
+datePublished: '2016-03-16T17:43:35.283Z'
+dateModified: '2016-03-16T17:21:10.349Z'
 title: Domain-Driven Design
+author: []
+sourcePath: _posts/2016-03-16-domain-driven-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-16-domain-driven-design.md
-published: true
 url: domain-driven-design/index.html
 _type: Article
 
