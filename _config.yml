@@ -1,20 +1,4 @@
-name: ShawnMcCool
-favicon: null
-layout_spectrum: 0.15801227814517915
 typography_spectrum: 0.8913367523346096
-title: ShawnMc.Cool
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.01852459693327546
   saturation: 0.1744479986373335
   rhythmicContrast: 0.130830419017002
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.15801227814517915
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ShawnMcCool
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ShawnMc.Cool
 purpose: []
